@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-family: Tahoma;
+}
+
+.inicio, .banner, .sobre, .serv, .corret, .cont {
+    padding: 30px auto;
+    text-align: center;
+}
