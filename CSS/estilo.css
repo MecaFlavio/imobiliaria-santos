@@ -3,7 +3,60 @@ body {
     font-family: Tahoma;
 }
 
-.inicio, .banner, .sobre, .serv, .corret, .cont {
+.subtitulo-azul{
+    color: #146fca;
+}
+
+.subtitulo-branco{
+    color: white;
+}
+
+
+.secao-inicio, 
+.secao-banner, 
+.secao-sobre, 
+.secao-servicos, 
+.secao-corretores, 
+.secao-contato {
     padding: 30px auto;
     text-align: center;
+}
+
+.secao-servicos, .secao-contato{
+    background-color: #146fca;
+}
+
+.secao-inicio{
+    background-color: #adcff0;
+}
+
+.secao-inicio img {
+    width: 200px;
+    margin: 30px auto 10px auto;
+}
+
+.secao-inicio p {
+    padding-bottom: 30px;
+    font-weight: 100;
+}
+
+.secao-inicio a {
+    color: rgb(5, 0, 0);
+    margin: 15px;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 8px;
+    border-left: 5px solid #146fca;
+    border-bottom: 5px solid #146fca;
+}
+
+.secao-banner img {
+    width: 1250px;
+    margin: 20px auto;
+}
+
+.secao-sobre h3 {
+    font-weight: normal;
+    
+
 }
