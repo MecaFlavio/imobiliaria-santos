@@ -3,6 +3,10 @@ body {
     font-family: Tahoma;
 }
 
+div {
+    text-align: center;
+}
+
 /* Classes especificas*/
 .subtitulo-azul{
     padding: 30px 0;
